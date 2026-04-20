@@ -1,6 +1,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dusker233&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dusker233&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## Vibe Coding Trend
 ![TokenArena Activity](https://token.poco-ai.com/en/u/icefox/activity.svg)
 
 <!--START_SECTION:activity-->
